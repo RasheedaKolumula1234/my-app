@@ -55,6 +55,7 @@ class ContactForm extends React.Component {
                             <option value="germany">Germany</option>
                             <option value="uk">UK</option>
                             <option value="us">US</option>
+                            <option value="aus">Australia</option>
 
                         </select>
                     </div>
